@@ -1,7 +1,7 @@
 # wish-cards
 ### Screenshot
 
-![desktop-view]( view.png)
+![desktop-view](view.png)
 
 ### Built with
 
